@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 
 - 🚀 I'm currently working on **modern, user-friendly web & mobile apps**
-- 🌍 Portfolio: [brillant-portfolio.netlify.app](https://brillant-portfolio.vercel.app/)
+- 🌍 Portfolio: [brillant-portfolio.vercel.app](https://brillant-portfolio.vercel.app/)
 - 💬 Ask me about: `React`, `Vue`, `MongoDB`, `Express`, `Node`, `UI/UX`
 - 📫 Reach me at: **bryanandriamanjaka12@gmail.com**
 
