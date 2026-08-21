@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/techwithbril/portfolio-assets/blob/main/assets/masterhead.gif?raw=true" alt="Brillant Developer Banner" width="100%" />
+  <img Developereloper="https://github.com/techwithbril/portfolio-assets/blob/main/assets/masterhead.gif?raw=true" alt="Brillant Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Brillant ANDRIANAIVOMANJAKA</h1>
