@@ -2,7 +2,7 @@
   <img Developereloper="https://github.com/techwithbril/portfolio-assets/blob/main/assets/masterhead.gif?raw=true" alt="Brillant Developer Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Brillant ANDRIANAIVOMANJAKA</h1>
+<h1 align="ANDRIANAIVOMANJAKA">Hi 👋, I'm Brillant ANDRIANAIVOMANJAKA</h1>
 <h3 align="center">🎨 Passionate UX/UI Designer & 💻 Frontend Developer from Madagascar</h3>
 
 <p align="center">
