@@ -15,7 +15,7 @@
 
 - 🚀 I'm currently working on **modern, user-friendly web & mobile apps**
 - 🌍 Portfolio: [brillant-portfolio.vercel.app](https://brillant-portfolio.vercel.app/)
-- 💬 Ask me about: `React`, `Vue`, `MongoDB`, `Express`, `Node`, `UI/UX`
+- 💬 Ask me about: `React`, `Vite`, `MongoDB`, `Express`, `Node`, `UI/UX`
 - 📫 Reach me at: **bryanandriamanjaka12@gmail.com**
 
 ---
